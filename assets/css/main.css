@@ -2122,6 +2122,7 @@ input, select, textarea {
 			position: absolute;
 			left: 0;
 			top: 0;
+            background-color: rgba(255, 50, 50, 0.7);
 		}
 
 	#nav ul {
